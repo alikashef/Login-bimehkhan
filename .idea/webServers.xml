@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="115dbc75-7454-42b7-ba78-f5201883f1ec" name="bimehkhan-ftp" url="http://bimehkhan.alikashef.ir/">
+        <fileTransfer host="bimehkhan.alikashef.ir" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
