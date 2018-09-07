@@ -26,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/bimehkhan/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="92">
-              <caret line="73" column="33" lean-forward="false" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
+              <caret line="73" column="31" lean-forward="false" selection-start-line="73" selection-start-column="31" selection-end-line="73" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -239,12 +239,12 @@
       <workItem from="1536182452188" duration="6513000" />
       <workItem from="1536215474006" duration="4257000" />
       <workItem from="1536262666588" duration="18004000" />
-      <workItem from="1536302736259" duration="3401000" />
+      <workItem from="1536302736259" duration="5249000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118368000" />
+    <option name="totallyTimeSpent" value="120216000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -577,7 +577,7 @@
     <entry file="file://$PROJECT_DIR$/bimehkhan/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
-          <caret line="73" column="33" lean-forward="false" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
+          <caret line="73" column="31" lean-forward="false" selection-start-line="73" selection-start-column="31" selection-end-line="73" selection-end-column="31" />
           <folding />
         </state>
       </provider>
