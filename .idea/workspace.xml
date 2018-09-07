@@ -22,21 +22,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="custom.js" pinned="true" current-in-tab="true">
-        <entry file="remoteDeploymentFS://&lt;115dbc75-7454-42b7-ba78-f5201883f1ec&gt;/public_html/bimehkhan/js/custom.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bimehkhan/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
-              <caret line="323" column="8" lean-forward="true" selection-start-line="323" selection-start-column="8" selection-end-line="323" selection-end-column="8" />
+            <state relative-caret-position="92">
+              <caret line="73" column="31" lean-forward="false" selection-start-line="73" selection-start-column="31" selection-end-line="73" selection-end-column="31" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="true" current-in-tab="false">
-        <entry file="remoteDeploymentFS://&lt;115dbc75-7454-42b7-ba78-f5201883f1ec&gt;/public_html/bimehkhan/css/style.css">
+      <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;115dbc75-7454-42b7-ba78-f5201883f1ec&gt;/public_html/bimehkhan/js/custom.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6268">
-              <caret line="3284" column="0" lean-forward="false" selection-start-line="3284" selection-start-column="0" selection-end-line="3284" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -98,6 +98,9 @@
       <replace />
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -146,11 +149,11 @@
         <option value="$PROJECT_DIR$/bimehkhan/pages/property-insurance/Digital-insurance.html" />
         <option value="&lt;115dbc75-7454-42b7-ba78-f5201883f1ec&gt;/public_html/bimehkhan/pages/property-insurance/Digital-insurance.html" />
         <option value="&lt;115dbc75-7454-42b7-ba78-f5201883f1ec&gt;/public_html/bimehkhan/pages/Elevator-insurance-result.html" />
-        <option value="$PROJECT_DIR$/bimehkhan/index.html" />
         <option value="$PROJECT_DIR$/bimehkhan/css/style.css" />
         <option value="&lt;115dbc75-7454-42b7-ba78-f5201883f1ec&gt;/public_html/bimehkhan/css/style.css" />
         <option value="&lt;115dbc75-7454-42b7-ba78-f5201883f1ec&gt;/public_html/bimehkhan/home.html" />
         <option value="&lt;115dbc75-7454-42b7-ba78-f5201883f1ec&gt;/public_html/bimehkhan/js/custom.js" />
+        <option value="$PROJECT_DIR$/bimehkhan/index.html" />
       </list>
     </option>
   </component>
@@ -166,6 +169,7 @@
     <option name="width" value="1036" />
     <option name="height" value="735" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages />
@@ -191,6 +195,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -234,16 +239,15 @@
       <workItem from="1536182452188" duration="6513000" />
       <workItem from="1536215474006" duration="4257000" />
       <workItem from="1536262666588" duration="18004000" />
-      <workItem from="1536302736259" duration="1995000" />
+      <workItem from="1536302736259" duration="2819000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116962000" />
+    <option name="totallyTimeSpent" value="117786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16364606" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="top" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2234957" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -251,7 +255,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295129" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296355" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -542,17 +546,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bimehkhan/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="70" column="21" lean-forward="false" selection-start-line="64" selection-start-column="15" selection-end-line="70" selection-end-column="21" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#2553#2560#1" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bimehkhan/pages/Infertility-Insurance-result.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -576,6 +569,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="689">
           <caret line="3650" column="23" lean-forward="false" selection-start-line="3650" selection-start-column="23" selection-end-line="3650" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bimehkhan/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="73" column="31" lean-forward="false" selection-start-line="73" selection-start-column="31" selection-end-line="73" selection-end-column="31" />
           <folding />
         </state>
       </provider>
